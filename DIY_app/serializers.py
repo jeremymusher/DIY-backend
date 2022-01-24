@@ -9,5 +9,5 @@ class PostSerializer(serializers.HyperlinkedModelSerializer):
             'title',
             'author',
             'text',
-            'video_url'
+            'video_id'
         )
