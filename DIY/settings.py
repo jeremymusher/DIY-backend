@@ -63,7 +63,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8000",
+    "http://musher-diy.herokuapp.com/",
     "http://localhost:3000",
 ]
 
