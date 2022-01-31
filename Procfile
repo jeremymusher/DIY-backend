@@ -1,1 +1,1 @@
-web: gunicorn DIY_app.wsgi
+web: gunicorn project-4.wsgi
